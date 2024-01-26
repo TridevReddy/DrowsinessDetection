@@ -1,0 +1,37 @@
+Date: 2023-11-28 22:03:32.550952, Interval: 3.687, Type:Normal
+Date: 2023-11-28 22:05:01.588069, Interval: 1.828, Type:Normal
+Date: 2023-11-28 22:05:44.958866, Interval: 4.131, Type: Eyes not on road
+Date: 2023-11-28 22:05:45.793358, Interval: 6.761, Type:Normal
+Date: 2023-11-28 22:05:49.530029, Interval: 2.654, Type:Drowsy
+Date: 2023-11-28 22:05:51.721736, Interval: 1.119, Type:Normal
+Date: 2023-11-28 22:05:55.589166, Interval: 1.612, Type:Normal
+Date: 2023-11-28 22:06:10.668909, Interval: 1.877, Type:Normal
+Date: 2023-11-28 22:06:13.566633, Interval: 1.809, Type:Yawning
+Date: 2023-11-28 22:31:19.782716, Interval: 1.087, Type:Normal
+Date: 2023-11-28 22:31:25.866322, Interval: 1.379, Type:Normal
+Date: 2023-11-28 22:31:33.054833, Interval: 7.103, Type:Yawning
+Date: 2023-11-28 22:31:42.337591, Interval: 8.279, Type: Eyes not on road
+Date: 2023-11-28 22:31:42.384272, Interval: 9.329, Type:Normal
+Date: 2023-11-28 22:31:44.242070, Interval: 1.724, Type:Normal
+Date: 2023-11-28 22:31:49.749230, Interval: 1.592, Type:Normal
+Date: 2023-11-28 22:32:16.531063, Interval: 1.434, Type:Normal
+Date: 2023-11-28 22:32:18.472923, Interval: 1.455, Type:Normal
+Date: 2023-11-28 22:32:25.428271, Interval: 2.076, Type:Normal
+Date: 2023-11-28 22:32:29.440725, Interval: 2.982, Type:Normal
+Date: 2023-11-28 22:32:30.588222, Interval: 1.1, Type:Normal
+Date: 2023-11-28 22:33:00.401892, Interval: 11.882, Type: Eyes not on road
+Date: 2023-11-28 22:33:04.899624, Interval: 4.276, Type:Normal
+Date: 2023-11-28 22:33:18.682521, Interval: 6.376, Type: Eyes not on road
+Date: 2023-11-28 22:33:52.775027, Interval: 3.019, Type: Eyes not on road
+Date: 2023-11-28 22:33:56.711134, Interval: 3.933, Type:Drowsy
+Date: 2023-11-28 22:33:56.711287, Interval: 7.336, Type:Yawning
+Date: 2023-11-28 22:34:14.551926, Interval: 3.005, Type:Yawning
+Date: 2023-11-28 22:35:05.887527, Interval: 1.838, Type:Normal
+Date: 2023-11-28 22:35:13.155969, Interval: 6.686, Type: Eyes not on road
+Date: 2023-11-28 22:35:25.780251, Interval: 7.329, Type: Eyes not on road
+Date: 2023-11-28 22:35:25.868018, Interval: 12.709, Type:Normal
+Date: 2023-11-28 22:35:31.033357, Interval: 4.068, Type:Normal
+Date: 2023-11-28 22:35:32.982427, Interval: 1.949, Type:Yawning
+Date: 2023-11-29 08:58:08.262380, Interval: 6.774, Type:Normal
+Date: 2023-11-29 08:58:14.797109, Interval: 1.685, Type:Yawning
+Date: 2023-11-29 08:58:16.983416, Interval: 1.295, Type:Yawning
